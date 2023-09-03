@@ -20,5 +20,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Preview Image
 
-![smartbizlord](https://avatars.githubusercontent.com/u/103539335?v=4)
+![Screenshot (5)](https://github.com/smartbizlord/schoolinka-todo-next/assets/103539335/e1dd1aba-08fb-423e-b51f-80a45415b866)
+
 
