@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* body {
+  @apply bg-darkText
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    @apply bg-primary;
+  }
+} */
+
+.no-scroll-bar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scroll-bar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.native-appearance-none {
+  appearance: none;
+}
